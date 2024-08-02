@@ -1,0 +1,86 @@
+1. Register User
+2. Login
+3. Add Expense
+4. List Expenses
+5. Delete Expense
+6. Calculate Total by Category
+7. Save and Exit
+Choose an option: 1
+Enter username: abc
+Enter password: abc@gmail.com
+1. Register User
+2. Login
+3. Add Expense
+4. List Expenses
+5. Delete Expense
+6. Calculate Total by Category
+7. Save and Exit
+Choose an option: 2
+Enter username: abc
+Enter password: abc@gmail.com
+Login successful!
+1. Register User
+2. Login
+3. Add Expense
+4. List Expenses
+5. Delete Expense
+6. Calculate Total by Category
+7. Save and Exit
+Choose an option: 3
+Enter date (YYYY-MM-DD): 2024-04-05
+Enter category: Food
+Enter amount: 15.50
+1. Register User
+2. Login
+3. Add Expense
+4. List Expenses
+5. Delete Expense
+6. Calculate Total by Category
+7. Save and Exit
+Choose an option: 3
+Enter date (YYYY-MM-DD): 2024-08-02
+Enter category: Transport
+Enter amount: 8.75
+1. Register User
+2. Login
+3. Add Expense
+4. List Expenses
+5. Delete Expense
+6. Calculate Total by Category
+7. Save and Exit
+Choose an option: 4
+Expenses:
+Expense{date=2024-08-01, category='Food', amount=15.50}
+Expense{date=2024-08-02, category='Transport', amount=8.75}
+1. Register User
+2. Login
+3. Add Expense
+4. List Expenses
+5. Delete Expense
+6. Calculate Total by Category
+7. Save and Exit
+Choose an option: 6
+Enter category: Food
+Total expenses for Food: 15.5
+1. Register User
+2. Login
+3. Add Expense
+4. List Expenses
+5. Delete Expense
+6. Calculate Total by Category
+7. Save and Exit
+Choose an option: 5
+Expenses:
+1. Expense{date=2024-08-01, category='Food', amount=15.50}
+2. Expense{date=2024-08-02, category='Transport', amount=8.75}
+Enter the number of the expense to delete: 1
+Expense deleted.
+1. Register User
+2. Login
+3. Add Expense
+4. List Expenses
+5. Delete Expense
+6. Calculate Total by Category
+7. Save and Exit
+Choose an option: 7
+=== Session Ended. Please Run the code again ===
